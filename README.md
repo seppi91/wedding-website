@@ -27,7 +27,7 @@ I have written a
 customize each of them according to your needs.
 
 # About Me
-Hello, my name is Ram. I am an Engineering Manager at [Mastercard R&D Labs](https://www.mastercard.com/). I enjoy making teeny tiny applications in
+Hello, my name is Lena. I am an Engineering Manager at [Mastercard R&D Labs](https://www.mastercard.com/). I enjoy making teeny tiny applications in
 my leisure time and this is one of them. Now that my wedding is over, I am open-sourcing the project. Hope you like it!
 
 Lastly, if you use a Mac then you may also love [Presentify](https://presentify.compzets.com/). Give it a whirl and let me know your thoughts.
@@ -37,4 +37,4 @@ Firstly, a big thanks 🙏🏻 for the overwhelming response on [HackerNews](htt
 
 <a href="https://www.buymeacoffee.com/rampatra" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-_P.S. For any queries or concerns, you can reach out to me on [Twitter](https://twitter.com/ram__patra). I'll try my best to help._
+_P.S. For any queries or concerns, you can reach out to me on [Twitter](https://twitter.com/Lena__patra). I'll try my best to help._
