@@ -250,6 +250,12 @@ Navigation
 /* ==========================================================================
 Hero
 ========================================================================== */
+@media only screen and (max-width: 600px) {
+  .hero {
+    background: url('../img/hero-min.jpg') left 100em center !important;  
+  }
+}
+
 .hero {
   min-height: 750px;
   background: url('../img/hero-min.jpg') center center;
