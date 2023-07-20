@@ -184,7 +184,7 @@ $(document).ready(function () {
         },
         data: {
             // Event title
-            title: "Lena & Sebastian's Hochzeit",
+            title: "Lena und Sebastian's Hochzeit",
 
             // Event start date
             start: new Date('Jun 15, 2024 10:00'),
@@ -214,8 +214,7 @@ $(document).ready(function () {
 
         $('#alert-wrapper').html(alert_markup('info', '<strong>Einen Moment!</strong> Wir speichern deine Daten.'));
 
-        if (MD5($('#invite_code').val()) !== 'b0e53b10c1f55ede516b240036b88f40'
-            && MD5($('#invite_code').val()) !== '2ac7f43695eb0479d5846bb38eec59cc') {
+        if (MD5($('#invite_code').val()) !== '17fcb09a3908ac403380173f10247762') {
             $('#alert-wrapper').html(alert_markup('danger', '<strong>Sorry!</strong> Dein Einladungscode ist falsch.'));
         } else {
             $.post('https://script.google.com/macros/s/AKfycbxM8T6dzXukVdyViEAL41GXA5JCYJ3Fi__YEnSvwc4hCTED_NPIUeeOHCprnQirl30ndA/exec', data)
